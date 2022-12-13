@@ -2,8 +2,7 @@
 A collection of ready to go examples in different setups
 
 ## A. Bitwig & Element on macOS
-
-### Requiered software to run this example:
+Requiered software to run this example:
 ---
 ##### 1. Bitwig Version 4.4.3
 
