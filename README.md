@@ -1,7 +1,7 @@
 # A3 Examples
 A collection of ready to go examples in different setups
 
-# A. Bitwig & Element on macOS
+## A. Bitwig & Element on macOS
 
 ### Requiered software to run this example:
 ---
