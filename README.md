@@ -1,15 +1,27 @@
-# examples
+# A3 Examples
 A collection of ready to go examples in different setups
 
-Download Blackhole 16ch virtual audio driver
+# A. Bitwig & Element on macOS
+
+### Requiered software to run this example:
+---
+##### 1. Bitwig Version 4.4.3
+
+https://www.bitwig.com/previous_releases/
+
+---
+
+##### 2. Blackhole 16ch virtual audio driver
 
 https://github.com/ExistentialAudio/BlackHole
 
-If you use brew
-
+If you use Homebrew you can install it via:
+```bash
 brew install blackhole-16ch
+```
+---
 
-Bitwig 4.4.3
+
 
 Download Element
 
