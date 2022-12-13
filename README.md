@@ -41,14 +41,17 @@ Make sure you scan your VST 2 plugin folder in the Element Plugin Manager in ord
 
 Copy & Paste the OSC Light Ch 1 - 4 Plugins into your VST3 folder
 
-So copy the plugins in this path: 
+So copy the plugins from this path in the repository: 
 ```bash
 /a3-examples/macOS/Plugins
 ```
-into
+into your local VST3 path, usually:
 ```bash
 /Library/Audio/Plug-Ins/VST3
 ```
+
+If you are curious about this OSC control plugins, check out: https://github.com/drlight-code/osccontrol-light
+
 ---
 #### 6. Copy LaunchAgent iem.presetpath.plist
 
