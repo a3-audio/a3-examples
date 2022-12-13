@@ -2,7 +2,9 @@
 A collection of ready to go examples in different setups
 
 ## A. Bitwig & Element on macOS
+
 Requiered software to run this example:
+
 ---
 ##### 1. Bitwig Version 4.4.3
 
@@ -19,16 +21,19 @@ If you use Homebrew you can install it via:
 brew install blackhole-16ch
 ```
 ---
-
-
-
-Download Element
+##### 3. Kushview Element
 
 https://kushview.net/element/
 
-Download IEM Plugin Suite: https://plugins.iem.at/
+---
 
-Install VST 2 Version
+##### 4. IEM Plugin-Suite for Ambisonics
+
+https://plugins.iem.at/
+
+Install the **VST 2 Version**
+
+---
 
 Copy & Paste the OSC Light Ch 1 - 4 Plugins in your VST3 folder
 
